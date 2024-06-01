@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bloc_counter
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# BLoC_counter
+>>>>>>> 9f8f7ec7178e9444e3d5e8bef3060a1716114f09
